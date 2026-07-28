@@ -72,3 +72,14 @@ The Streamlit dashboard provides:
 
 
 ## Screenshots
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/55c6cd61-2f5a-4031-9265-44a94354b8f8" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c8c94285-1bec-4a3d-9bcf-4acf94e04e62" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/acf85a91-d740-4e8d-864e-0c9f737a0d83" />
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b8bc8729-4b9f-43f3-b38d-4a177bfc69de" />
+
+
+
