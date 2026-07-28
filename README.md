@@ -71,9 +71,12 @@ The Streamlit dashboard provides:
 * Airbase API
 
 
+
 ## Screenshots
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/55c6cd61-2f5a-4031-9265-44a94354b8f8" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c8c94285-1bec-4a3d-9bcf-4acf94e04e62" />
 
