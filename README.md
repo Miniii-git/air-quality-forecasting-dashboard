@@ -80,7 +80,11 @@ The Streamlit dashboard provides:
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c8c94285-1bec-4a3d-9bcf-4acf94e04e62" />
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/acf85a91-d740-4e8d-864e-0c9f737a0d83" />
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b8bc8729-4b9f-43f3-b38d-4a177bfc69de" />
 
